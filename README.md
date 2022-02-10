@@ -18,9 +18,9 @@
 
 :zap: JavaScript\
  :zap: Web application framework - Reactjs\
- :zap: Wallet Connection- Unstoppable Domanin\
- :zap: BackEnd - Covalent Api\
- :zap: UI Design Tool - Chakra UI
+ :zap: Wallet Connection- Unstoppable Domains\
+ :zap: Back-End - Covalent Api\
+ :zap: Front-End Tool - Chakra UI
 
 #### Live website : NFT-Global-Explorer](https://nftexplorer.vercel.app/)
 
@@ -28,7 +28,7 @@
 
 #### Demo video and small pitch : [video](youtu.be/v7cw-RK2xNo)
 
-#### Date of starting the project : 31 January, 2022
+#### Date of starting the project : 26 January, 2022
 
 #### Wallet Address : 0xF975206a46b4eD9f5F008AF9813B19bf083d94eE
 
