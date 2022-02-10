@@ -4,7 +4,7 @@ import LandingPage from "./pages/Landing";
 import CollectionView from "./pages/CollectionView";
 import NFTView from "./pages/NFTView";
 import Hero from "./pages/Hero";
-import Logo from "./assets/logo.svg";
+//import Logo from "./assets/logo.svg";
 
 function App() {
   return (
@@ -21,9 +21,9 @@ function App() {
           <Route path="/" component={Hero} />
         </Switch>
       </Router>
-      <div className="logo">
+      {/* <div className="logo">
         <img alt="" src={Logo}></img>
-      </div>
+      </div> */}
     </div>
   );
 }
