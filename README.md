@@ -26,7 +26,7 @@
 
 #### GitHub Repository : [here](https://github.com/SabeloMkhwanzi/UNS-nft-global-market-explorer)
 
-#### Demo video and small pitch : [video]()
+#### Demo video and small pitch : [video](youtu.be/v7cw-RK2xNo)
 
 #### Date of starting the project : 31 January, 2022
 
