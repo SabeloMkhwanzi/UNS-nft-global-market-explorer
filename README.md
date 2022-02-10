@@ -22,7 +22,7 @@
  :zap: BackEnd - Covalent Api\
  :zap: UI Design Tool - Chakra UI
 
-#### Live website : NFT-Global-Explorer](https://genesiswallet.vercel.app/)
+#### Live website : NFT-Global-Explorer](https://nftexplorer.vercel.app/)
 
 #### GitHub Repository : [here](https://github.com/SabeloMkhwanzi/UNS-nft-global-market-explorer)
 
@@ -39,8 +39,7 @@
 First, clone the repo with the following git command:
 
 ```bash
-git clone https://github.com/SabeloMkhwanzi/
-UNS-nft-global-market-explorer
+git clone https://github.com/SabeloMkhwanzi/UNS-nft-global-market-explorer
 ```
 
 Second, open a terminal in the root directory of the project and run:
