@@ -14,8 +14,8 @@ import LandingPage from "../Landing";
 const uauth = new UAuth({
   clientID: "fingfeID7I/krlfBz2mYHkcUa4KztMkX9FT0aY/YOAE=",
   clientSecret: "GqZ5xInjDBmKYfNiIMk8pVdXLyzA3D9xIuNc6a4dhVY=",
-  redirectUri: "http://localhost:3000/callback",
-  postLogoutRedirectUri: "http://localhost:3000/",
+  redirectUri: "https://nftexplorer.vercel.app/callback",
+  postLogoutRedirectUri: "https://nftexplorer.vercel.app/",
   scope: "openid email wallet",
 });
 
