@@ -31,3 +31,31 @@
 #### Date of starting the project : 31 January, 2022
 
 #### Wallet Address : 0xF975206a46b4eD9f5F008AF9813B19bf083d94eE
+
+#### Running the app
+
+## Getting Started
+
+First, clone the repo with the following git command:
+
+```bash
+git clone https://github.com/SabeloMkhwanzi/Unstoppable-Integrating-Login
+```
+
+Second, open a terminal in the root directory of the project and run:
+
+```bash
+npm install
+```
+
+to install all the package dependencies for the project
+
+Finally, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
