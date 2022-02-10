@@ -39,7 +39,8 @@
 First, clone the repo with the following git command:
 
 ```bash
-git clone https://github.com/SabeloMkhwanzi/Unstoppable-Integrating-Login
+git clone https://github.com/SabeloMkhwanzi/
+UNS-nft-global-market-explorer
 ```
 
 Second, open a terminal in the root directory of the project and run:
