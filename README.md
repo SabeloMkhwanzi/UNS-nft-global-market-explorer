@@ -9,7 +9,7 @@
 #### Project Description : NFT Global Market Explorer - An NFT Explorer that helps users to explore all NFT collections per selected blockchain, sorted by market cap. Powered by Unstoppable Domains Helping users to Login with there Unstoppable Domains.
 
 ### Home Page\
-![defi_DexSwap]()
+![defi_DexSwap](https://github.com/SabeloMkhwanzi/UNS-nft-global-market-explorer/blob/main/nft-explorer.jpg)
 
 - User login using their Unstoppable domains name or ens
 - A global summary table of NFT collections per selected blockchain, sorted by market cap
